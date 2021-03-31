@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PWMDAC")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/PWMDAC.pretty")(options "")(descr ""))
+)
